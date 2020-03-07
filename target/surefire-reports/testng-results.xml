@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-30T20:58:29 IST" name="Suite" finished-at="2020-01-30T20:58:29 IST" duration-ms="52">
+    <groups>
+    </groups>
+    <test started-at="2020-01-30T20:58:29 IST" name="Test" finished-at="2020-01-30T20:58:29 IST" duration-ms="52">
+      <class name="JyotshnaProject.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:JyotshnaProject.SeleniumTest@2133814f]" started-at="2020-01-30T20:58:29 IST" name="BrowserAutomation" finished-at="2020-01-30T20:58:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:JyotshnaProject.SeleniumTest@2133814f]" started-at="2020-01-30T20:58:29 IST" name="elementsUI" finished-at="2020-01-30T20:58:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- JyotshnaProject.SeleniumTest -->
+      <class name="JyotshnaProject.RESTAPITest">
+        <test-method signature="DeleteTwitter()[pri:0, instance:JyotshnaProject.RESTAPITest@70be0a2b]" started-at="2020-01-30T20:58:29 IST" name="DeleteTwitter" finished-at="2020-01-30T20:58:29 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method signature="PostJira()[pri:0, instance:JyotshnaProject.RESTAPITest@70be0a2b]" started-at="2020-01-30T20:58:29 IST" name="PostJira" finished-at="2020-01-30T20:58:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- JyotshnaProject.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
